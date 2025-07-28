@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/7kHkGxD.png" width="200"/>
-</p>
 ```json
 {
   "username": "@saidsudirman",
